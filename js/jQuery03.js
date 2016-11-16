@@ -22,6 +22,7 @@ function myFunc(){
     console.log( $("ol > li:nth-child(2)").text() );
     console.log( $("ol > li:last").text() );
 
+
 }
 
 
