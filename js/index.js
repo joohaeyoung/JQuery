@@ -32,6 +32,7 @@ console.log(test(50,50));
 //자바스크립트 객체.
 //변수 : property
 //함수 : method
+
 var obj = {
     myName:"홍길동",
     myAge:30,

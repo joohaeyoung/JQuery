@@ -6,7 +6,7 @@ function startClock(){
     //현재 시간을 구해요! " 2016-11-15 20:10:50 "
     //html div 영역에 출력.
     //html div영역을 자바스크립트 객체로 들고와요
-    var div = document.getElementById("clockDiv"); // document는 body 밑을 지시한다.
+    var div = document.getElementById("clockDiv"); // document는 body 밑을 지시한다. div는 문서객체다.
     // div.innerHTML = "바뀌어요";
     // 이게 자바스크립트가 하는 짓이다. 웹페이지를 동적으로 변화시키는것!
     //HTML은 웹페이지를 정적으로 찍어낸다.
